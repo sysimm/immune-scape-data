@@ -1,0 +1,207 @@
+>Cluster 0
+0	66aa, >HLA:HLA17305... *
+1	66aa, >HLA:HLA06597... at 100.00%
+2	66aa, >HLA:HLA00601... at 100.00%
+3	66aa, >HLA:HLA11066... at 100.00%
+4	65aa, >HLA:HLA09875... at 100.00%
+5	66aa, >HLA:HLA14793... at 100.00%
+6	66aa, >HLA:HLA00606... at 100.00%
+7	66aa, >HLA:HLA14787... at 100.00%
+8	66aa, >HLA:HLA01376... at 100.00%
+9	66aa, >HLA:HLA01409... at 100.00%
+10	66aa, >HLA:HLA01905... at 100.00%
+11	66aa, >HLA:HLA14792... at 100.00%
+12	66aa, >HLA:HLA12906... at 100.00%
+13	66aa, >HLA:HLA14786... at 100.00%
+14	66aa, >HLA:HLA00605... at 100.00%
+>Cluster 1
+0	66aa, >HLA:HLA17306... *
+1	66aa, >HLA:HLA17770... at 100.00%
+2	66aa, >HLA:HLA00602... at 100.00%
+3	66aa, >HLA:HLA02338... at 100.00%
+4	66aa, >HLA:HLA14847... at 100.00%
+5	65aa, >HLA:HLA07277... at 100.00%
+6	66aa, >HLA:HLA02432... at 100.00%
+7	66aa, >HLA:HLA14848... at 100.00%
+8	66aa, >HLA:HLA14846... at 100.00%
+9	66aa, >HLA:HLA00603... at 100.00%
+10	66aa, >HLA:HLA06598... at 100.00%
+11	66aa, >HLA:HLA06599... at 100.00%
+12	66aa, >HLA:HLA06594... at 100.00%
+13	65aa, >HLA:HLA07278... at 100.00%
+14	65aa, >HLA:HLA14208... at 100.00%
+15	66aa, >HLA:HLA08433... at 100.00%
+>Cluster 2
+0	66aa, >HLA:HLA06601... *
+1	66aa, >HLA:HLA14788... at 100.00%
+2	66aa, >HLA:HLA17307... at 100.00%
+3	66aa, >HLA:HLA14789... at 100.00%
+4	66aa, >HLA:HLA14790... at 100.00%
+5	66aa, >HLA:HLA08431... at 100.00%
+6	66aa, >HLA:HLA00604... at 100.00%
+7	66aa, >HLA:HLA14791... at 100.00%
+8	66aa, >HLA:HLA17308... at 100.00%
+>Cluster 3
+0	66aa, >HLA:HLA00610... *
+1	66aa, >HLA:HLA14795... at 100.00%
+2	66aa, >HLA:HLA00611... at 100.00%
+3	66aa, >HLA:HLA17309... at 100.00%
+4	66aa, >HLA:HLA17290... at 100.00%
+5	66aa, >HLA:HLA00608... at 100.00%
+6	65aa, >HLA:HLA13330... at 100.00%
+7	66aa, >HLA:HLA14797... at 100.00%
+8	66aa, >HLA:HLA07419... at 100.00%
+>Cluster 4
+0	66aa, >HLA:HLA00997... *
+1	66aa, >HLA:HLA02145... at 100.00%
+2	66aa, >HLA:HLA00494... at 100.00%
+3	65aa, >HLA:HLA00996... at 100.00%
+4	66aa, >HLA:HLA00496... at 100.00%
+5	66aa, >HLA:HLA00995... at 100.00%
+6	66aa, >HLA:HLA02154... at 100.00%
+7	65aa, >HLA:HLA00998... at 100.00%
+8	66aa, >HLA:HLA00999... at 100.00%
+9	66aa, >HLA:HLA00495... at 100.00%
+10	66aa, >HLA:HLA02153... at 100.00%
+>Cluster 5
+0	66aa, >HLA:HLA15632... *
+>Cluster 6
+0	65aa, >HLA:HLA15619... *
+1	65aa, >HLA:HLA00509... at 100.00%
+2	64aa, >HLA:HLA08415... at 100.00%
+3	65aa, >HLA:HLA17772... at 100.00%
+4	65aa, >HLA:HLA17043... at 100.00%
+5	64aa, >HLA:HLA03187... at 100.00%
+6	65aa, >HLA:HLA17379... at 100.00%
+7	65aa, >HLA:HLA17378... at 100.00%
+8	64aa, >HLA:HLA07089... at 100.00%
+9	65aa, >HLA:HLA17315... at 100.00%
+10	64aa, >HLA:HLA08603... at 100.00%
+11	64aa, >HLA:HLA11062... at 100.00%
+12	65aa, >HLA:HLA14100... at 100.00%
+>Cluster 7
+0	65aa, >HLA:HLA06470... *
+1	65aa, >HLA:HLA06454... at 100.00%
+2	65aa, >HLA:HLA06468... at 100.00%
+3	65aa, >HLA:HLA06469... at 100.00%
+4	65aa, >HLA:HLA01593... at 100.00%
+5	65aa, >HLA:HLA00662... at 100.00%
+6	64aa, >HLA:HLA00663... at 100.00%
+>Cluster 8
+0	65aa, >HLA:HLA17563... *
+1	65aa, >HLA:HLA00513... at 100.00%
+>Cluster 9
+0	65aa, >HLA:HLA17374... *
+1	65aa, >HLA:HLA17771... at 100.00%
+2	65aa, >HLA:HLA00499... at 100.00%
+3	65aa, >HLA:HLA17375... at 100.00%
+4	65aa, >HLA:HLA17376... at 100.00%
+5	65aa, >HLA:HLA17967... at 100.00%
+6	65aa, >HLA:HLA06605... at 100.00%
+7	65aa, >HLA:HLA06604... at 100.00%
+8	64aa, >HLA:HLA03224... at 100.00%
+9	65aa, >HLA:HLA06606... at 100.00%
+10	65aa, >HLA:HLA16642... at 100.00%
+11	65aa, >HLA:HLA14098... at 100.00%
+12	65aa, >HLA:HLA06607... at 100.00%
+13	65aa, >HLA:HLA17777... at 100.00%
+14	64aa, >HLA:HLA01937... at 100.00%
+>Cluster 10
+0	65aa, >HLA:HLA16384... *
+1	65aa, >HLA:HLA16383... at 100.00%
+2	65aa, >HLA:HLA16385... at 100.00%
+3	65aa, >HLA:HLA16387... at 100.00%
+>Cluster 11
+0	65aa, >HLA:HLA00511... *
+1	65aa, >HLA:HLA17562... at 100.00%
+>Cluster 12
+0	65aa, >HLA:HLA00620... *
+1	65aa, >HLA:HLA17364... at 100.00%
+2	64aa, >HLA:HLA01861... at 100.00%
+>Cluster 13
+0	65aa, >HLA:HLA17363... *
+1	65aa, >HLA:HLA00614... at 100.00%
+2	65aa, >HLA:HLA06618... at 100.00%
+3	65aa, >HLA:HLA14849... at 100.00%
+4	65aa, >HLA:HLA02341... at 100.00%
+5	65aa, >HLA:HLA06609... at 100.00%
+6	65aa, >HLA:HLA02340... at 100.00%
+7	65aa, >HLA:HLA14801... at 100.00%
+8	65aa, >HLA:HLA00619... at 100.00%
+9	65aa, >HLA:HLA17360... at 100.00%
+10	65aa, >HLA:HLA06614... at 100.00%
+11	65aa, >HLA:HLA14799... at 100.00%
+12	65aa, >HLA:HLA02339... at 100.00%
+13	65aa, >HLA:HLA02433... at 100.00%
+14	65aa, >HLA:HLA00617... at 100.00%
+15	65aa, >HLA:HLA15562... at 100.00%
+16	65aa, >HLA:HLA00613... at 100.00%
+17	65aa, >HLA:HLA14805... at 100.00%
+18	65aa, >HLA:HLA17361... at 100.00%
+19	65aa, >HLA:HLA17362... at 100.00%
+20	65aa, >HLA:HLA06617... at 100.00%
+21	64aa, >HLA:HLA04360... at 100.00%
+22	65aa, >HLA:HLA15563... at 100.00%
+>Cluster 14
+0	65aa, >HLA:HLA01168... *
+1	65aa, >HLA:HLA17774... at 100.00%
+2	64aa, >HLA:HLA01097... at 100.00%
+3	65aa, >HLA:HLA17773... at 100.00%
+4	65aa, >HLA:HLA13623... at 100.00%
+5	65aa, >HLA:HLA17568... at 100.00%
+6	64aa, >HLA:HLA00506... at 100.00%
+7	65aa, >HLA:HLA00505... at 100.00%
+8	65aa, >HLA:HLA00504... at 100.00%
+9	65aa, >HLA:HLA14197... at 100.00%
+10	65aa, >HLA:HLA17380... at 100.00%
+11	65aa, >HLA:HLA17775... at 100.00%
+12	65aa, >HLA:HLA17776... at 100.00%
+13	65aa, >HLA:HLA17377... at 100.00%
+14	64aa, >HLA:HLA03999... at 100.00%
+>Cluster 15
+0	65aa, >HLA:HLA00607... *
+1	64aa, >HLA:HLA17070... at 100.00%
+2	65aa, >HLA:HLA14794... at 100.00%
+>Cluster 16
+0	64aa, >HLA:HLA01874... at 100.00%
+1	65aa, >HLA:HLA01694... *
+2	65aa, >HLA:HLA00612... at 100.00%
+3	65aa, >HLA:HLA01697... at 100.00%
+4	65aa, >HLA:HLA17768... at 100.00%
+5	65aa, >HLA:HLA09342... at 100.00%
+6	65aa, >HLA:HLA17312... at 100.00%
+7	65aa, >HLA:HLA17311... at 100.00%
+>Cluster 17
+0	65aa, >HLA:HLA01003... *
+>Cluster 18
+0	65aa, >HLA:HLA16386... *
+>Cluster 19
+0	64aa, >HLA:HLA00510... *
+1	64aa, >HLA:HLA07533... at 100.00%
+>Cluster 20
+0	64aa, >HLA:HLA09332... *
+>Cluster 21
+0	64aa, >HLA:HLA00618... *
+>Cluster 22
+0	64aa, >HLA:HLA00503... *
+1	64aa, >HLA:HLA03401... at 100.00%
+>Cluster 23
+0	64aa, >HLA:HLA12908... *
+>Cluster 24
+0	64aa, >HLA:HLA02058... *
+>Cluster 25
+0	64aa, >HLA:HLA01466... *
+>Cluster 26
+0	64aa, >HLA:HLA01938... *
+>Cluster 27
+0	64aa, >HLA:HLA03223... *
+>Cluster 28
+0	64aa, >HLA:HLA00512... *
+>Cluster 29
+0	63aa, >HLA:HLA06457... *
+1	63aa, >HLA:HLA06456... at 100.00%
+2	63aa, >HLA:HLA00485... at 100.00%
+3	63aa, >HLA:HLA00486... at 100.00%
+4	63aa, >HLA:HLA06464... at 100.00%
+>Cluster 30
+0	63aa, >HLA:HLA01000... *
